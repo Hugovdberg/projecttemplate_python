@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     HISTORY = history_file.read()
 
-REQUIREMENTS = ['appdirs', 'pathlib']
+REQUIREMENTS = ['appdirs', 'pathlib', 'ruamel.yaml']
 
 SETUP_REQUIREMENTS = ['pytest-runner', ]
 
