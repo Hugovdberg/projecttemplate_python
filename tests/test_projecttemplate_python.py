@@ -6,7 +6,7 @@
 import pytest
 
 
-from projecttemplate_python import projecttemplate_python
+from projecttemplate import Project
 
 
 @pytest.fixture
