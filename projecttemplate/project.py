@@ -13,7 +13,7 @@ from .util import AttrDict
 
 class Project:
 
-    _readers: Dict[str, Callable[[Path, str, "Project"], None]] = {}
+    _readers = {}  # type: Dict[str, Callable[[Path, str, "Project"], None]]
 
     def __init__(self, projdir: Path = Path()) -> None:
         self.projdir = Path(projdir)
