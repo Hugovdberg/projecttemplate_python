@@ -9,4 +9,4 @@ try:
 
     readers = {".shp": shapefile_reader}
 except ImportError:
-    pass
+    readers = {}
