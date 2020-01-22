@@ -6,5 +6,5 @@ __author__ = """Hugo van den Berg"""
 __email__ = "hugo@tbdwebdesign.nl"
 __version__ = "0.1.0"
 
-from .projecttemplate import Project
+from .project import Project
 import projecttemplate.readers
