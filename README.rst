@@ -3,8 +3,8 @@ ProjectTemplate
 ===============
 
 
-.. image:: https://img.shields.io/pypi/v/projecttemplate_python.svg
-        :target: https://pypi.python.org/pypi/projecttemplate_python
+.. image:: https://img.shields.io/pypi/v/projecttemplate.svg
+        :target: https://pypi.python.org/pypi/projecttemplate
 
 .. image:: https://img.shields.io/travis/com/Hugovdberg/projecttemplate_python.svg
         :target: https://travis-ci.com/Hugovdberg/projecttemplate_python
