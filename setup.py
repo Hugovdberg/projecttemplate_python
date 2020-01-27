@@ -48,6 +48,6 @@ setup(
     test_suite="tests",
     tests_require=TEST_REQUIREMENTS,
     url="https://github.com/Hugovdberg/projecttemplate_python",
-    version="0.1.1",
+    version="0.1.2",
     zip_safe=False,
 )
